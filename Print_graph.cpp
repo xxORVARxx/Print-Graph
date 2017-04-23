@@ -1,5 +1,5 @@
 /*  To Compile:
- *    g++ -std=c++11 -o test.bin  print.cpp
+ *    g++ -std=c++11 -o test.bin  Print_graph.cpp
  */
 
 #include <iostream>
